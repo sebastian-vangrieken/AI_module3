@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 from keras.utils import image_dataset_from_directory
 import tensorflow as tf
 from tensorflow import keras
